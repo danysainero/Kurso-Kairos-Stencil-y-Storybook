@@ -1,0 +1,16 @@
+{
+  "entries": [
+    "./components/grid-layout/grid-layout.js",
+    "./components/home-layout/home-layout.js",
+    "./components/my-component/my-component.js",
+    "./components/post-detail/post-detail.js",
+    "./components/post-detail-comments/post-detail-comments.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "1.14.0",
+    "typescriptVersion": "3.9.3"
+  },
+  "collections": [],
+  "bundles": []
+}
